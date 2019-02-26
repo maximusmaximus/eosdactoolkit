@@ -44,5 +44,5 @@ index 5b4bd96..fc0f04b 100644
    "api": {
      "bpNodeApiUrl": "https://eosdac.io/topnodes.json",
 -    "memberClientApiUrl": "http://ns3119712.ip-51-38-42.eu:3000"
-+    "memberClientApiUrl": "http://104.248.221.132:3000"
++    "memberClientApiUrl": "http://localhost:3000"
    },
