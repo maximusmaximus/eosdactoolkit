@@ -1,4 +1,4 @@
-diff --git a/eosdac-material/src/statics/config.jungle.json b/eosdac-material/src/statics/config.jungle.json
+git diff a/eosdac-material/src/statics/config.jungle.json b/eosdac-material/src/statics/config.jungle.json
 index 5b4bd96..fc0f04b 100644
 --- a/eosdac-material/src/statics/config.jungle.json
 +++ b/eosdac-material/src/statics/config.jungle.json
